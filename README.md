@@ -13,6 +13,7 @@ Labs (15%), Assignments (45%), Project (40%)
  - Late labs will not be accepted
  - Late assignments will be deducted 5 points each day they are late.
  - If there are any issues please contact me asap
+ 
 
 ## Instructor:
  - Kay Ashaolu <kay@ischool>

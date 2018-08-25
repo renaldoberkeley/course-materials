@@ -1,0 +1,6 @@
+What is your experience with web architecture. Have you written HTML before? Written JavaScript? etc.
+* I have written web applications before however for my own test projects. It has been a long time since I have written HTML and Javascript which is why I am taking this class to refresh my skills. I was also a technical product manager for a web application team.
+
+
+What are your favorite features from at least 2 browsers?
+* My favorite feature of Chrome is Dev Tools. My favorite feature of IE10 is that the web browser can read the web pages to you.
